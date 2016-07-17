@@ -5,3 +5,5 @@ As a case-study, I am looking at the CF Recommender Systems, where user profiles
 The current solution relies on Spark ML library, and considers both user-based and item-based CF recommenders. For user based I use Spark implementaion ALS and for items based I end up developing my own approach.
 
 The implementaton still is not compuationally optimized.
+
+I am using movie-lense dataset.
